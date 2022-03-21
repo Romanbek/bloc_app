@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           // This is the theme of your application.
           //
 
-          primarySwatch: Colors.cyan),
+          primarySwatch: Colors.blueGrey),
       home: MultiBlocProvider(
         providers: [
           BlocProvider(
