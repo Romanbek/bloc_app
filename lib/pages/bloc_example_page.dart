@@ -18,6 +18,7 @@ class _BlocExamplePageState extends State<BlocExamplePage> {
     log('build.....');
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Bloc Examle'),
       ),
       body: Center(

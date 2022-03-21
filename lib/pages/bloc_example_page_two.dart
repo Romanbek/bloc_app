@@ -14,6 +14,7 @@ class _BlocExamplePageTwoState extends State<BlocExamplePageTwo> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Bloc Examle Two'),
       ),
       body: Center(
