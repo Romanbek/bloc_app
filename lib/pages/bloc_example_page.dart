@@ -19,7 +19,7 @@ class _BlocExamplePageState extends State<BlocExamplePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Bloc Examle'),
+        title: const Text('BloС Examle'),
       ),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
